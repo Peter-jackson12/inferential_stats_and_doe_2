@@ -1,0 +1,20 @@
+[project]
+name = "inferential-stats-and-doe-2"
+version = "0.1.0"
+description = "Inferential Statistics and DOE practice environment"
+requires-python = ">=3.10"
+dependencies = [
+    "pandas==2.2.1",
+    "numpy==1.26.4",
+    "scipy==1.12.0",
+    "statsmodels==0.14.1",
+    "matplotlib==3.8.4",
+    "seaborn==0.13.2",
+    "jupyter==1.0.0",
+    "ipykernel==6.29.5",
+    "openpyxl==3.1.2",
+    "psutil==5.9.8",
+    "kiwisolver==1.4.5",
+]
+
+
